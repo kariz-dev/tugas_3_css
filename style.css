@@ -1,0 +1,30 @@
+/* 3 */
+p {
+    background-color: gray;
+}
+
+/* 4 */
+.pPertama {
+    background-color: orange;
+}
+
+/* 5 */
+.pKedua {
+    background-color: blue;
+    color: white;
+}
+
+/* 6 */
+.pKetiga {
+    font-family: monospace;
+    background-color: white;
+    border: 1 solid black;
+    font-size: large;
+}
+
+/* 7 */
+.pKeempat {
+    font-weight: bold;
+    font-size: larger;
+    font-family: Roboto;
+}
